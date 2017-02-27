@@ -1,0 +1,22 @@
+## gradle
+*.iml
+.idea/
+.gradle/
+build/
+#gradle/
+#gradlew
+#gradlew.bat
+
+## ant
+bin/
+gen/
+
+## Android Studio
+captures/
+
+## MAC OSX
+.DS_Store
+
+## build
+output/
+local.properties

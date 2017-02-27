@@ -1,0 +1,21 @@
+## gradle
+*.iml
+.idea/
+build/
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+
+## ant
+bin/
+gen/
+
+## Android Studio
+captures/
+
+## MAC OSX
+.DS_Store
+
+## build
+output/
